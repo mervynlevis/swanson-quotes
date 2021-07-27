@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/swanson-quotes/static/css/main.c432105e.chunk.css",
-    "main.js": "/swanson-quotes/static/js/main.a2e22dba.chunk.js",
-    "main.js.map": "/swanson-quotes/static/js/main.a2e22dba.chunk.js.map",
+    "main.js": "/swanson-quotes/static/js/main.ab4e4493.chunk.js",
+    "main.js.map": "/swanson-quotes/static/js/main.ab4e4493.chunk.js.map",
     "runtime-main.js": "/swanson-quotes/static/js/runtime-main.b2fd488f.js",
     "runtime-main.js.map": "/swanson-quotes/static/js/runtime-main.b2fd488f.js.map",
     "static/js/2.08f9ca0d.chunk.js": "/swanson-quotes/static/js/2.08f9ca0d.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.b2fd488f.js",
     "static/js/2.08f9ca0d.chunk.js",
     "static/css/main.c432105e.chunk.css",
-    "static/js/main.a2e22dba.chunk.js"
+    "static/js/main.ab4e4493.chunk.js"
   ]
 }
