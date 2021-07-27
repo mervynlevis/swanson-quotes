@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/swanson-quotes/static/css/main.e4be4291.chunk.css",
+    "main.css": "/swanson-quotes/static/css/main.00f082bb.chunk.css",
     "main.js": "/swanson-quotes/static/js/main.ab4e4493.chunk.js",
     "main.js.map": "/swanson-quotes/static/js/main.ab4e4493.chunk.js.map",
     "runtime-main.js": "/swanson-quotes/static/js/runtime-main.b2fd488f.js",
@@ -8,14 +8,14 @@
     "static/js/2.08f9ca0d.chunk.js": "/swanson-quotes/static/js/2.08f9ca0d.chunk.js",
     "static/js/2.08f9ca0d.chunk.js.map": "/swanson-quotes/static/js/2.08f9ca0d.chunk.js.map",
     "index.html": "/swanson-quotes/index.html",
-    "static/css/main.e4be4291.chunk.css.map": "/swanson-quotes/static/css/main.e4be4291.chunk.css.map",
+    "static/css/main.00f082bb.chunk.css.map": "/swanson-quotes/static/css/main.00f082bb.chunk.css.map",
     "static/js/2.08f9ca0d.chunk.js.LICENSE.txt": "/swanson-quotes/static/js/2.08f9ca0d.chunk.js.LICENSE.txt",
     "static/media/App.css": "/swanson-quotes/static/media/swanson.c8fbf217.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b2fd488f.js",
     "static/js/2.08f9ca0d.chunk.js",
-    "static/css/main.e4be4291.chunk.css",
+    "static/css/main.00f082bb.chunk.css",
     "static/js/main.ab4e4493.chunk.js"
   ]
 }
